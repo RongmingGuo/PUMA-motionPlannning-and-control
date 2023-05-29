@@ -3,7 +3,7 @@
 Programmable Universal Machine for Assembly (PUMA) is a class of industrial robotic arms (serial manipulators) initially developed by Victor Scheinman at Unimation in the 70s. PUMA Robots are highly agile, accurate, and versatile, making them ideal for a wide range of industrial applications, particularly in manufacturing and assembly processes.
 
 In this project, we develop a trajectory planning and control framework for a simplified PUMA Robot consisting of 3 Degrees of Freedom (DOF). 
-
+![](https://github.com/RongmingGuo/PUMA-motionPlannning-and-control/blob/main/image/panel.PNG)
 A simulated environment is auto-generated using Simscape Multibody incorporating full system dynamics.
 
 Various concepts are explored, including but not limited to:
